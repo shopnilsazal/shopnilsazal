@@ -10,7 +10,7 @@
  <!-- About section -->
 
 ---
-✨ I am a passionate software engineer with 9+ years’ experience. I enjoy taking on new challenges and constantly strives to learn new skills.
+✨ Highly motivated and results-oriented software engineer with 9+ years of experience delivering efficient, scalable, and maintainable code for large-scale projects. Demonstrated leadership through successfully mentoring junior engineers and fostering a collaborative team environment. Passionate about tackling complex challenges, driving technical excellence, and building the future of software. Strong commitment to continuous learning and staying ahead of the technology curve.
 
 <!--
 **shopnilsazal/shopnilsazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
